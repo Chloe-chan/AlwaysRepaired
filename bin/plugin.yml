@@ -1,0 +1,5 @@
+main: com.gmail.chloepika.plugins.alwaysrepaired.AlwaysRepaired
+name: Always Repaired
+version: 1.0
+author: Chloe-chan
+description: A plugin that auto repairs tools.
